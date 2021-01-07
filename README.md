@@ -1,4 +1,4 @@
 # Structure-Sort
 
 ###ScreenShot
-![ScreenShot](sort.jpg)
+![ScreenShot](sort.JPG)
